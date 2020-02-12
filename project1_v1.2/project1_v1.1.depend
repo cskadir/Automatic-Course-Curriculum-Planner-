@@ -1,0 +1,288 @@
+# depslib dependency file v1.0
+1556548332 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\course.cpp
+	"course.h"
+	<string>
+
+1556549481 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\course.h
+	<iostream>
+	<string>
+
+1557068329 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	"scheduler.h"
+	<exception>
+
+1557069379 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\scheduler.cpp
+	"scheduler.h"
+
+1557069378 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\scheduler.h
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	<exception>
+	"classroom.h"
+	"service.h"
+	"electivecourse.h"
+	"compulsorycourse.h"
+	"smallclass.h"
+	"bigclass.h"
+	"plan.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1557067712 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\classroom.cpp
+	"classroom.h"
+
+1557067738 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\classroom.h
+	<iostream>
+	<string>
+
+1556710756 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\service.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<exception>
+
+1556710839 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\service.cpp
+	"service.h"
+
+1556627871 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\electivecourse.h
+	"course.h"
+
+1556627903 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\compulsorycourse.h
+	"course.h"
+
+1556633404 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\compulsorycourse.cpp
+	"compulsorycourse.h"
+
+1556627895 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\electivecourse.cpp
+	"electivecourse.h"
+
+1557067712 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\bigclass.cpp
+	"bigclass.h"
+
+1557067712 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\bigclass.h
+	"classroom.h"
+
+1557067712 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\smallclass.h
+	"classroom.h"
+
+1557067712 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\smallclass.cpp
+	"smallclass.h"
+
+1556990508 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\plan.cpp
+	"plan.h"
+
+1557007152 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\plan.h
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	<exception>
+	"classroom.h"
+	"service.h"
+	"electivecourse.h"
+	"compulsorycourse.h"
+	"smallclass.h"
+	"bigclass.h"
+
+1556738258 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\classroombase.cpp
+	"classroombase.h"
+
+1556738277 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.1\classroombase.h
+
+1557082281 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\bigclass.cpp
+	"bigclass.h"
+
+1557082276 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\bigclass.h
+	"classroom.h"
+
+1557082268 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\classroom.h
+	<iostream>
+	<string>
+
+1557082272 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\classroom.cpp
+	"classroom.h"
+
+1557082264 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\compulsorycourse.cpp
+	"compulsorycourse.h"
+
+1557082319 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\compulsorycourse.h
+	"course.h"
+
+1557082247 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\course.h
+	<iostream>
+	<string>
+
+1557082250 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\course.cpp
+	"course.h"
+	<string>
+
+1557082258 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\electivecourse.cpp
+	"electivecourse.h"
+
+1557082254 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\electivecourse.h
+	"course.h"
+
+1557087500 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	"scheduler.h"
+	<exception>
+
+1557087446 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\scheduler.h
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	<exception>
+	"classroom.h"
+	"service.h"
+	"electivecourse.h"
+	"compulsorycourse.h"
+	"smallclass.h"
+	"bigclass.h"
+	"plan.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1557082229 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\service.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<exception>
+
+1557082285 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\smallclass.h
+	"classroom.h"
+
+1557087439 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\plan.h
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	<exception>
+	"classroom.h"
+	"service.h"
+	"electivecourse.h"
+	"compulsorycourse.h"
+	"smallclass.h"
+	"bigclass.h"
+
+1557088094 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\plan.cpp
+	"plan.h"
+
+1557088085 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\scheduler.cpp
+	"scheduler.h"
+
+1557082242 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\service.cpp
+	"service.h"
+
+1557082288 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2\project1_v1.2\smallclass.cpp
+	"smallclass.h"
+
+1557082281 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\bigclass.cpp
+	"bigclass.h"
+
+1557082276 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\bigclass.h
+	"classroom.h"
+
+1557082268 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\classroom.h
+	<iostream>
+	<string>
+
+1557082272 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\classroom.cpp
+	"classroom.h"
+
+1557082264 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\compulsorycourse.cpp
+	"compulsorycourse.h"
+
+1557082319 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\compulsorycourse.h
+	"course.h"
+
+1557082247 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\course.h
+	<iostream>
+	<string>
+
+1557082250 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\course.cpp
+	"course.h"
+	<string>
+
+1557082258 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\electivecourse.cpp
+	"electivecourse.h"
+
+1557082254 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\electivecourse.h
+	"course.h"
+
+1557087500 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	"scheduler.h"
+	<exception>
+
+1557087446 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\scheduler.h
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	<exception>
+	"classroom.h"
+	"service.h"
+	"electivecourse.h"
+	"compulsorycourse.h"
+	"smallclass.h"
+	"bigclass.h"
+	"plan.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1557082229 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\service.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<exception>
+
+1557082285 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\smallclass.h
+	"classroom.h"
+
+1557087439 c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\plan.h
+	<string>
+	<fstream>
+	<vector>
+	"course.h"
+	<exception>
+	"classroom.h"
+	"service.h"
+	"electivecourse.h"
+	"compulsorycourse.h"
+	"smallclass.h"
+	"bigclass.h"
+
+1557088094 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\plan.cpp
+	"plan.h"
+
+1557088134 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\scheduler.cpp
+	"scheduler.h"
+
+1557082242 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\service.cpp
+	"service.h"
+
+1557082288 source:c:\users\cscientist\desktop\ab_2018_c++\project1_v1.2_group_17\project1_v1.2\smallclass.cpp
+	"smallclass.h"
+

@@ -1,0 +1,40 @@
+Monday Morning bigClass1 CENG302
+Monday Morning bigClass2 CENG104
+Monday Morning bigClass3 
+Monday Morning smallClass1 CENG451
+Monday Afternoon bigClass1 MATH102
+Monday Afternoon bigClass2 ENGR202
+Monday Afternoon bigClass3 
+Monday Afternoon smallClass1 CENG404
+Tuesday Morning bigClass1 CHEM101
+Tuesday Morning bigClass2 CENG316
+Tuesday Morning bigClass3 CENG204
+Tuesday Morning smallClass1 CENG470
+Tuesday Afternoon bigClass1 CENG310
+Tuesday Afternoon bigClass2 
+Tuesday Afternoon bigClass3 CENG466
+Tuesday Afternoon smallClass1 ENGR254
+Wednesday Morning bigClass1 TIT101
+Wednesday Morning bigClass2 CENG427
+Wednesday Morning bigClass3 
+Wednesday Morning smallClass1 CENG415
+Wednesday Afternoon bigClass1 TDL102
+Wednesday Afternoon bigClass2 
+Wednesday Afternoon bigClass3 CENG304
+Wednesday Afternoon smallClass1 
+Thursday Morning bigClass1 CENG202
+Thursday Morning bigClass2 ENG102
+Thursday Morning bigClass3 ENGR402
+Thursday Morning smallClass1 CENG318
+Thursday Afternoon bigClass1 MATH106
+Thursday Afternoon bigClass2 CENG206
+Thursday Afternoon bigClass3 CENG472
+Thursday Afternoon smallClass1 ENGR404
+Friday Morning bigClass1 PHYS102
+Friday Morning bigClass2 CENG306
+Friday Morning bigClass3 
+Friday Morning smallClass1 ENGR256
+Friday Afternoon bigClass1 
+Friday Afternoon bigClass2 
+Friday Afternoon bigClass3 CENG317
+Friday Afternoon smallClass1 CENG474
